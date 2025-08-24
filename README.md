@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Krishna Vispute  
+#  Hi, I'm Krishna Vispute  
 
-🚀 **Aspiring AI/ML Engineer | Data Science Enthusiast | Data Analysts**  
+ **Aspiring AI/ML Engineer | Data Science Enthusiast | Data Analysts**  
 
-💡 Passionate about building intelligent systems that solve real-world problems.  
-🌱 Currently working on **multi-crop disease detection, chatbot systems, and cloud solutions**.  
-🎯 Exploring **Deep Learning, NLP, and Cloud Computing** to push my skills further.  
+ Passionate about building intelligent systems that solve real-world problems.  
+ Currently working on **multi-crop disease detection, chatbot systems, and cloud solutions**.  
+ Exploring **Deep Learning, NLP, and Cloud Computing** to push my skills further.  
 
 ### 🔧 Technologies & Tools  
 
