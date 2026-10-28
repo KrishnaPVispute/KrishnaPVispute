@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Krishna Vispute - Software Engineer, AI & ML Systems"/>
+  <img src="assets/hero.svg" width="100%" alt="Krishna Vispute - Software Engineer, ML Engineer, Data Scientist"/>
 </p>
 
 <p align="center">
